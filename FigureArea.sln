@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureArea", "FigureArea\FigureArea.csproj", "{7920A930-911C-4F5B-B5AB-E9975810E91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFigureArea", "TestFigureArea\TestFigureArea.csproj", "{9065D179-E70F-46E3-8BC7-47C77A710E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7920A930-911C-4F5B-B5AB-E9975810E91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7920A930-911C-4F5B-B5AB-E9975810E91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7920A930-911C-4F5B-B5AB-E9975810E91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7920A930-911C-4F5B-B5AB-E9975810E91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04066DF8-6CB3-490A-9FEC-2B0F9B961A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04066DF8-6CB3-490A-9FEC-2B0F9B961A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04066DF8-6CB3-490A-9FEC-2B0F9B961A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04066DF8-6CB3-490A-9FEC-2B0F9B961A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9065D179-E70F-46E3-8BC7-47C77A710E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9065D179-E70F-46E3-8BC7-47C77A710E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9065D179-E70F-46E3-8BC7-47C77A710E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9065D179-E70F-46E3-8BC7-47C77A710E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
